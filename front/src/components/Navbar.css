@@ -1,0 +1,18 @@
+.menusection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 37px;
+    padding-bottom: 30px;
+}
+.menuoption nav ul{
+    list-style-type: none;
+    display: flex;
+}
+.menuoption nav ul li{
+    padding-right: 50px;
+}
+
+a{
+    text-decoration: none;
+}
